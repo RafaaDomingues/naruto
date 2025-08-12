@@ -18,13 +18,15 @@ header h1{
     top: 46px;
     position: relative;
 }
+section .principal {
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
 .principal img {
     width: 232px;
     height: 131px;
     border: 10px solid red;
     display: inline-flex;
     object-fit: cover;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
 }
