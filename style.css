@@ -22,11 +22,13 @@ section.principal {
     text-align: center;
 }
 .principal img {
+    top: 20px;
     width: 232px;
     height: 131px;
     border: 10px solid red;
     display: flex;
     object-fit: cover;
+    flex-flow: ;
     justify-content: center;
     gap: 30px;
     margin-bottom: 18px;
