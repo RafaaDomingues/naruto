@@ -18,7 +18,7 @@ header h1{
     top: 46px;
     position: relative;
 }
-section .principal {
+section.principal {
     text-align: center;
     justify-content: center;
     gap: 30px;
