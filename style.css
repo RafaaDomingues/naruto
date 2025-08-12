@@ -22,6 +22,7 @@ section.principal {
     text-align: center;
 }
 .principal img {
+    position: relative;
     top: 20px;
     width: 232px;
     height: 131px;
