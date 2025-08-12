@@ -28,5 +28,6 @@ section.principal {
     display: flex;
     object-fit: cover;
     justify-content: center;
-    gap: 28px;margin-bottom: 18px;
+    gap: 30px;
+    margin-bottom: 18px;
 }
