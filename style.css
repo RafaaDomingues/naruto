@@ -22,4 +22,6 @@ header h1{
     width: 232px;
     height: 131px;
     border: 10px solid red;
+    text-align: center;
+    top: 40px;
 }
