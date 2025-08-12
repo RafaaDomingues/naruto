@@ -25,8 +25,8 @@ section.principal {
     width: 232px;
     height: 131px;
     border: 10px solid red;
-    display: inline-flex;
+    display: flex;
     object-fit: cover;
     justify-content: center;
-    gap: 30px;
+    gap: 28px;margin-bottom: 18px;
 }
