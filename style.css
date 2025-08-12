@@ -19,7 +19,7 @@ header h1{
     position: relative;
 }
 section .principal {
-    align-items: center;
+    text-align: center;
     justify-content: center;
     gap: 30px;
 }
