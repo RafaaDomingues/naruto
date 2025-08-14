@@ -12,8 +12,6 @@ header {
     border-radius: 30px;
     margin: 20px;
 }
-<<<<<<< HEAD
-=======
 
 header h1 {
     margin: 0;
@@ -29,7 +27,6 @@ header h1 {
     margin-bottom: 20px;
 }
 
->>>>>>> 2c3d6bf943195f94ce0ec9c43baa441ba4eef0b0
 .principal img {
     width: 232px;
     height: 131px;
@@ -42,13 +39,7 @@ header h1 {
     display: flex;
     justify-content: center;
     gap: 30px;
-<<<<<<< HEAD
     margin-bottom: 18px;
-    
-    
-=======
-    margin-bottom: 20px;
->>>>>>> 2c3d6bf943195f94ce0ec9c43baa441ba4eef0b0
 }
 
 .familia img {
