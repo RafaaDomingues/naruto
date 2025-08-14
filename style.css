@@ -18,6 +18,10 @@ header h1 {
     font-size: 28px;
 }
 
+section{
+    display: block;
+}
+
 .principal {
     display: flex;
     flex-direction: column;
