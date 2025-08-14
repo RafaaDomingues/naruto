@@ -21,6 +21,7 @@ header h1 {
 .principal {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     align-items: center;
     gap: 15px;
     margin-bottom: 20px;
